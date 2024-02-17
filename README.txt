@@ -1,0 +1,1 @@
+This project contains files for "community use" by myself and fellow users of the CNC Router at the Bodgery in Madison Wisconsin.  While this respository is public and others may share in it, it hasn't been designed for use outside this community.
